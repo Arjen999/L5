@@ -1,0 +1,16 @@
+body{
+    width:1045px;
+    height:600px;
+    margin:10px;
+}
+div{
+    background:#E35B5B;
+    width:1035px;
+    height:590px;
+    font-family:"Arial", sans-serif
+}
+span{color:white;font-size:60px;font-weight:bold;display:block;padding-top: 20px}
+.first{padding-left:300px;padding-top:5px;}
+p{color:white;}
+pre{color:white;font-weight: inherit; opacity:0.6;font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline;}
+.second{color:#A2232E;font-size:25px;opacity:0.7;}
